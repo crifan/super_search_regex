@@ -1,0 +1,19 @@
+{
+  "title": "应用广泛的超强搜索：正则表达式",
+  "description": "整理正则表达式的基本语法、常见应用领域和具体应用案例，以及详细解释每种语法的含义和注意事项",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "super_search_regex"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/super_search_regex/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/super_search_regex/pdf/super_search_regex.pdf"
+    }
+  }
+}
