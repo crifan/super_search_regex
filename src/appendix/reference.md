@@ -66,4 +66,6 @@
 * [People Looking Down Png - People Standin #1297885 - PNG Images - PNGio](https://pngio.com/images/png-a1297885.html)
 * [WAIPER RAKUTENICHIBATEN: HOUSTON Houston U.S. forces CWU-45/P flight jacket 5CW45P/ military forces thing men　 | Rakuten Global Market](https://global.rakuten.com/en/store/waiper/item/10008259/)
 * 【已解决】Mac中编辑图片水平左右翻转
+* [【教程】如何教你看懂复杂的正则表达式 – 在路上](https://www.crifan.com/tutorial_teach_you_how_to_understand_the_complex_regular_expression/)
+* [【教程】以Python中的re模块为例，手把手教你，如何从无到有，写出相对复杂的正则表达式 – 在路上](https://www.crifan.com/how_to_write_your_own_complex_regular_expression_in_python_re/)
 * 

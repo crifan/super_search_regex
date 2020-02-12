@@ -5,7 +5,7 @@
 * 在线浏览
   * [正则表达式详解：look ahead和look behind](https://www.processon.com/view/link/5e3a5bdbe4b06b291a60f195)
 * 如图
-  * ![look_around_detail](../assets/img/look_around_detail.jpg)
+  * ![look_around_detail](../../assets/img/look_around_detail.jpg)
 
 下面再详细解释如下：
 
@@ -140,4 +140,4 @@
 
 用下图来对比说明：
 
-![non_capture_vs_capture](../assets/img/non_capture_vs_capture.png)
+![non_capture_vs_capture](../../assets/img/non_capture_vs_capture.png)
